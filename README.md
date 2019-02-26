@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-resume task rsschool-2019Q1-cv
+(https://your-githab-account.github.io/rsschool-2019Q1-cv/cv)[https://your-githab-account.github.io/rsschool-2019Q1-cv/cv]
