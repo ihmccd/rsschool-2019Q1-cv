@@ -1,9 +1,9 @@
 # **Ihar Makayed**
 
 #### **Contacts**
-tel +375296192117
+tel: +375296192117
 
-mail igbus@mail.ru
+mail: igbus@mail.ru
 
 #### **Goal**
 Become front-end developer
