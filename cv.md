@@ -14,27 +14,27 @@ To become front-end developer
 	* javascript
 	* git
 
-#####Languages: 
+##### Languages: 
 1.english B2 
 2.polish B1
 3. German A2
 
-#####Other: 
+##### Other: 
 experience 4 years in finance (expense analyst)
 
-####**Code examples:**
+#### **Code examples:**
 [Codepen](https://codepen.io/ihmccd/pens/public/)
 
-####**Experience:**
+#### **Experience:**
 *online courses (codeacademy/coursera/freecodecamp)*
 
-####**Relevant Education:**
-######Rolling Scopes School first stage
+#### **Relevant Education:**
+###### Rolling Scopes School first stage
 
-####**English Level:**
-#####B2 Upper-Intermediate,
+#### **English Level:**
+##### B2 Upper-Intermediate,
 *(FCE exam), constantly used in current work*  
 
-####**Quote:**
+#### **Quote:**
 >Greate Power Brings Great Responsibility
 >								Uncle Ben 
