@@ -1,8 +1,8 @@
 # **Ihar Makayed**
 
-##### **Contacts**
-##### tel +375296192117
-##### mail igbus@mail.ru
+#### **Contacts**
+tel +375296192117
+mail igbus@mail.ru
 
 #### **Goal**
 Become front-end developer
@@ -13,26 +13,29 @@ Become front-end developer
 * css
 * javascript
 * git
+
 ##### * Languages 
-			1. english B2 
-			2. polish B1
-			3. German A2
+1. english B2 
+2. polish B1
+3. German A2
+
 ##### * Other
-			experience 4 years in finance (expense analyst)
+experience 4 years in finance (expense analyst)
 
 #### **Code examples**
-[My Codepen](https://codepen.io/ihmccd/pens/public/)
+*[My Codepen](https://codepen.io/ihmccd/pens/public/)*
 
 #### **Experience**
 *online courses (codeacademy/coursera/freecodecamp)*
 
 #### **Relevant Education**
-__Rolling Scopes School first stage__
+*Rolling Scopes School first stage*
 
 #### **English Level**
-##### B2 Upper-Intermediate,
+*B2 Upper-Intermediate,*
 *(FCE exam), constantly used in current work*  
 
 #### **Quote**
->"Greate Power Brings Great Responsibility" 
+>"Greate Power Brings Great Responsibility"
+
 >Uncle Ben 
