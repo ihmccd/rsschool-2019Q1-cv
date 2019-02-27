@@ -4,15 +4,15 @@
 ##### tel +375296192117
 ##### mail igbus@mail.ru
 
-##### **Goal**
+#### **Goal**
 Become front-end developer
 
 #### **Skills**
-##### * frontend & programming 
-			* html
-			* css
-			* javascript
-			* git
+##### * Frontend & programming 
+* html
+* css
+* javascript
+* git
 ##### * Languages 
 			1. english B2 
 			2. polish B1
@@ -21,18 +21,18 @@ Become front-end developer
 			experience 4 years in finance (expense analyst)
 
 #### **Code examples**
-[Codepen](https://codepen.io/ihmccd/pens/public/)
+[My Codepen](https://codepen.io/ihmccd/pens/public/)
 
 #### **Experience**
 *online courses (codeacademy/coursera/freecodecamp)*
 
 #### **Relevant Education**
-###### Rolling Scopes School first stage
+__Rolling Scopes School first stage__
 
 #### **English Level**
 ##### B2 Upper-Intermediate,
 *(FCE exam), constantly used in current work*  
 
 #### **Quote**
->Greate Power Brings Great Responsibility
->								Uncle Ben 
+>"Greate Power Brings Great Responsibility" 
+>Uncle Ben 
