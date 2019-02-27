@@ -21,7 +21,7 @@ Become front-end developer
 * German A2
 
 ##### 3. Other
-Experience 4 years in finance (expense analyst)
+* Experience 4 years in finance (expense analyst)
 
 ### **Code examples**
 [My Codepen](https://codepen.io/ihmccd/pens/public/)
