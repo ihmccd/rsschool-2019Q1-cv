@@ -23,6 +23,12 @@ a{
     font-family: sans-serif;
 }
 
+
+ul { 
+    padding-left: 15px;
+    font-size: 14px;
+}
+
 #container_image{
     display: inline-block;
     float: right;
