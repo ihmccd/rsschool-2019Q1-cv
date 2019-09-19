@@ -1,0 +1,42 @@
+body, div, h1{
+    margin: 0;
+    border: 0;
+    color: #16383d;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+#container{
+    margin: 0 auto;
+    width: 600px;
+    background-color: #c1e6df; 
+    padding: 1%;
+    padding-top: 1.5%;
+}
+
+#container_text{
+    display: inline-block;
+    padding: 0;
+    position: relative;
+    margin: 0 auto;    
+    font-family: sans-serif;
+}
+
+
+ul { 
+    padding-left: 15px;
+    font-size: 14px;
+}
+
+#container_image{
+    display: inline-block;
+    float: right;
+}
+
+img{
+    width: 200px;
+}
+
